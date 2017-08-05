@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ammo
+  - Enemy
+  - EnemyAmmo
+  - Interaction
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 162339849
+    locked: 0
+  - name: UnitBehindWall
+    uniqueID: 767528115
+    locked: 0
+  - name: Wall_0
+    uniqueID: 2330913437
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wall_1
+    uniqueID: 1355096139
+    locked: 0
+  - name: UnitInFrontOfWall
+    uniqueID: 635310945
+    locked: 0
